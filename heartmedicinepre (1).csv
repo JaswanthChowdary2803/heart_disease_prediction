@@ -1,0 +1,100 @@
+﻿age,Sex,Chest Pain Type,Resting Blood Pressure,Serum Cholesterol,Fasting Blood Sugar,Resting Electrocardiographic Results,Maximum Heart Rate Achieved,Exercise Induced Angina,ST Depression,Slope of the Peak Exercise ST Segment,Number of Major Vessels Colored by Flourosopy,Thalassemia,Medication,Precautions
+63,1,3,145,233,1,0,150,0,2.3,0,0,1,Beta blocker,Monitor blood plessure regularly
+37,1,2,130,250,0,1,187,0,3.5,0,0,2,Calcium channel blocker,Avoid grapefruit and grapefruit juice
+41,0,1,130,204,0,0,172,0,1.4,2,0,2,ACE inhibitor,Avoid taking potassium supplements
+56,1,1,120,236,0,1,178,0,0.8,2,0,2,Statin,Avoid drinking grapefruit juice
+57,0,0,120,354,0,1,163,1,0.6,2,0,2,Aspirin,Take with food to avoid stomach upset
+54,1,1,118,232,1,0,110,0,0.6,0,0,2,Beta blocker,Monitor blood plessure regularly
+34,1,0,123,234,1,0,134,0,0.6,1,0,1,Calcium channel blocker,Avoid taking potassium supplements
+33,0,0,122,256,1,1,143,0,1.4,2,0,2,Calcium channel blocker,Avoid grapefruit and grapefruit juice
+67,1,3,145,278,0,1,134,0,1.5,2,0,1,Beta blocker,Avoid grapefruit and grapefruit juice
+72,1,2,145,276,0,0,154,1,1.3,0,0,1,Calcium channel blocker,Monitor blood plessure regularly
+44,0,3,146,256,1,1,156,1,1.3,1,0,2,ACE inhibitor,Take with food to avoid stomach upset
+47,0,1,129,221,1,1,156,1,0.3,0,0,1,Statin,Monitor blood plessure regularly
+53,0,3,120,110,1,0,189,0,2.2,2,0,1,ACE inhibitor,Take with food to avoid stomach upset
+51,1,1,120,189,0,1,189,0,2.1,1,0,1,Aspirin,Take with food to avoid stomach upset
+78,0,1,130,176,1,0,178,1,3.3,2,0,1,Aspirin,Avoid taking potassium supplements
+92,1,2,132,187,0,0,113,1,2.5,1,0,2,Statin,Avoid grapefruit and grapefruit juice
+40,1,1,133,190,0,1,187,0,2.4,2,0,1,Statin,Avoid grapefruit and grapefruit juice
+58,0,1,123,243,0,0,167,0,2.1,1,0,2,Beta blocker,Monitor blood plessure regularly
+50,0,0,100,304,0,0,176,1,2.9,2,0,1,Beta blocker,Take with food to avoid stomach upset
+55,0,0,143,130,1,1,175,0,2.7,1,0,2,Calcium channel blocker,Take with food to avoid stomach upset
+54,1,1,99,178,0,0,178,0,3.3,2,0,1,Aspirin,Monitor blood plessure regularly
+48,1,2,123,187,1,1,198,1,3.2,1,0,2,Statin,Avoid grapefruit and grapefruit juice
+49,0,1,69,189,0,0,188,0,0.4,2,0,1,Beta blocker,Avoid taking potassium supplements
+46,0,2,78,121,1,1,122,1,0.4,0,0,2,Beta blocker,Monitor blood plessure regularly
+49,1,3,90,123,0,0,100,0,0.4,0,0,1,Calcium channel blocker,Monitor blood plessure regularly
+42,0,0,123,132,1,1,113,1,0.5,1,0,2,Statin,Avoid grapefruit and grapefruit juice
+35,1,0,122,189,0,1,123,0,0.6,0,0,1,Aspirin,Avoid grapefruit and grapefruit juice
+23,0,1,111,187,1,1,143,1,1.1,1,0,2,ACE inhibitor,Monitor blood plessure regularly
+11,0,2,124,222,0,0,143,0,1.2,2,0,1,Aspirin,Take with food to avoid stomach upset
+16,0,2,165,221,1,0,155,1,1.4,2,0,2,Aspirin,Monitor blood plessure regularly
+19,0,3,140,232,0,0,143,1,1.6,2,0,2,ACE inhibitor,Take with food to avoid stomach upset
+23,1,1,134,234,1,0,198,1,1.6,1,0,2,Statin,Avoid grapefruit and grapefruit juice
+76,0,3,135,422,1,0,123,0,2.4,2,0,1,Statin,Monitor blood plessure regularly
+33,1,2,136,143,1,1,189,0,1.4,1,0,1,ACE inhibitor,Take with food to avoid stomach upset
+87,1,3,145,122,0,1,167,0,2.4,2,0,1,Aspirin,Take with food to avoid stomach upset
+92,1,2,133,143,0,0,177,1,2.3,2,0,2,Aspirin,Monitor blood plessure regularly
+90,1,3,16,143,0,1,178,0,2.6,2,0,2,ACE inhibitor,Avoid taking potassium supplements
+67,1,1,167,245,1,1,187,1,2.7,0,0,1,Aspirin,Avoid grapefruit and grapefruit juice
+76,0,0,112,245,0,0,187,0,1.5,0,0,2,Statin,Monitor blood plessure regularly
+75,0,0,6,256,0,0,167,1,1.8,0,0,1,ACE inhibitor,Monitor blood plessure regularly
+24,0,2,55,276,0,0,167,0,2.9,2,0,2,ACE inhibitor,Monitor blood plessure regularly
+35,0,0,57,278,1,0,176,1,3.3,0,0,1,Aspirin,Avoid grapefruit and grapefruit juice
+68,0,0,67,298,0,1,175,0,3.2,2,0,2,Calcium channel blocker,Avoid taking potassium supplements
+65,1,3,67,232,1,0,145,0,3.5,0,0,1,Calcium channel blocker,Avoid grapefruit and grapefruit juice
+45,1,0,76,288,0,0,146,1,3.4,1,0,2,Aspirin,Avoid grapefruit and grapefruit juice
+43,1,1,65,277,1,1,147,0,2.9,2,0,1,ACE inhibitor,Monitor blood plessure regularly
+41,0,2,78,288,0,0,156,1,2.8,0,0,2,Calcium channel blocker,Monitor blood plessure regularly
+21,1,3,99,266,1,1,176,0,2.2,2,0,2,Calcium channel blocker,Take with food to avoid stomach upset
+12,0,1,89,299,0,0,155,1,2.4,2,0,2,Aspirin,Take with food to avoid stomach upset
+10,1,0,87,298,0,1,123,0,2.5,0,0,2,ACE inhibitor,Monitor blood plessure regularly
+7,0,3,82,267,0,0,133,1,2.6,2,0,1,Aspirin,Take with food to avoid stomach upset
+5,1,0,36,256,1,1,143,0,2.2,0,0,1,Beta blocker,Avoid taking potassium supplements
+5,0,1,78,200,0,1,123,1,1.4,2,0,1,Beta blocker,Take with food to avoid stomach upset
+1,1,3,97,201,1,0,144,1,1.7,0,0,2,Beta blocker,Take with food to avoid stomach upset
+2,0,0,120,123,0,0,142,0,2.8,1,0,1,Aspirin,Monitor blood plessure regularly
+14,1,2,134,312,1,1,156,1,3.5,2,0,2,Statin,Take with food to avoid stomach upset
+100,0,0,144,223,0,0,187,0,4.3,1,0,1,Statin,Avoid taking potassium supplements
+20,1,1,146,234,1,1,188,1,4.4,2,0,1,Aspirin,Take with food to avoid stomach upset
+22,0,0,154,42,0,0,198,0,4.3,0,0,2,Beta blocker,Monitor blood plessure regularly
+21,1,3,150,232,0,1,197,1,2.4,0,0,1,Calcium channel blocker,Monitor blood plessure regularly
+34,0,0,120,224,0,0,77,0,4.1,2,0,1,Beta blocker,Take with food to avoid stomach upset
+56,1,2,110,78,1,1,165,0,3.2,2,0,1,Statin,Avoid taking potassium supplements
+78,0,1,113,98,0,1,188,1,3.4,0,0,1,Aspirin,Avoid grapefruit and grapefruit juice
+9,1,2,113,99,1,0,100,0,2.8,1,0,2,ACE inhibitor,Take with food to avoid stomach upset
+89,0,1,132,234,0,1,188,1,0.8,2,0,2,Aspirin,Take with food to avoid stomach upset
+86,1,3,123,231,1,0,189,0,0.9,1,0,1,Statin,Monitor blood plessure regularly
+58,0,1,134,79,0,1,187,1,0.2,0,0,2,Calcium channel blocker,Monitor blood plessure regularly
+59,1,2,143,98,1,0,167,0,0.1,0,0,2,Beta blocker,Avoid taking potassium supplements
+34,1,1,154,67,0,1,187,1,0.3,2,0,2,Beta blocker,Take with food to avoid stomach upset
+90,1,3,134,156,1,0,187,0,1.5,0,0,1,Calcium channel blocker,Monitor blood plessure regularly
+99,0,1,112,67,0,1,177,1,1.6,2,0,2,Beta blocker,Monitor blood plessure regularly
+43,0,2,123,254,0,1,187,0,1.9,0,0,1,Aspirin,Take with food to avoid stomach upset
+43,0,3,132,243,1,0,188,1,2.2,1,0,2,Aspirin,Monitor blood plessure regularly
+23,1,2,134,23,0,1,189,0,2.8,2,0,1,ACE inhibitor,Take with food to avoid stomach upset
+43,0,3,143,224,1,0,77,0,0.6,1,0,2,Statin,Avoid taking potassium supplements
+66,1,1,145,143,1,1,76,0,0.6,1,0,1,Statin,Avoid taking potassium supplements
+77,0,0,154,124,1,0,89,0,0.6,1,0,2,Beta blocker,Avoid grapefruit and grapefruit juice
+5,1,0,143,144,0,1,89,1,0.4,2,0,1,Calcium channel blocker,Avoid grapefruit and grapefruit juice
+44,1,1,154,245,0,0,99,1,4.5,1,0,2,Beta blocker,Monitor blood plessure regularly
+3,1,0,154,234,0,1,98,1,3.4,2,0,1,Calcium channel blocker,Monitor blood plessure regularly
+4,0,2,165,423,1,0,90,0,3.2,1,0,2,Beta blocker,Take with food to avoid stomach upset
+44,0,0,145,244,1,0,90,1,2.4,1,0,1,Calcium channel blocker,Avoid taking potassium supplements
+4,0,0,143,345,0,1,98,0,0.4,1,0,2,Beta blocker,Avoid taking potassium supplements
+3,0,3,154,232,0,0,90,1,0.4,2,0,1,Aspirin,Avoid taking potassium supplements
+2,1,3,133,322,1,0,98,1,3.9,1,0,1,Aspirin,Monitor blood plessure regularly
+9,1,0,123,232,0,1,78,1,4.9,2,0,1,ACE inhibitor,Monitor blood plessure regularly
+77,0,2,120,244,1,1,98,0,2.8,1,0,2,Statin,Avoid taking potassium supplements
+65,0,1,120,245,0,1,47,1,1.8,0,0,2,Statin,Avoid grapefruit and grapefruit juice
+54,1,2,130,453,1,1,89,0,1.3,0,0,2,Calcium channel blocker,Avoid grapefruit and grapefruit juice
+43,1,0,130,344,0,0,88,1,2.9,2,0,2,Calcium channel blocker,Take with food to avoid stomach upset
+32,0,3,45,453,1,0,80,0,3.6,0,0,1,Aspirin,Monitor blood plessure regularly
+45,0,2,144,455,0,0,187,1,3.7,2,0,2,ACE inhibitor,Monitor blood plessure regularly
+56,1,3,143,466,1,1,188,0,0.9,1,0,2,ACE inhibitor,Avoid taking potassium supplements
+67,0,2,120,32,0,0,190,1,0.1,2,0,2,Aspirin,Avoid grapefruit and grapefruit juice
+76,1,0,118,211,1,0,187,0,0.2,1,0,2,ACE inhibitor,Monitor blood plessure regularly
+78,0,2,117,122,1,1,177,1,2.2,1,0,2,Aspirin,Monitor blood plessure regularly
+55,1,2,134,142,0,0,176,0,2.3,0,0,2,Statin,Take with food to avoid stomach upset
+32,0,1,120,90,1,0,172,1,2.4,0,0,1,Beta blocker,Monitor blood plessure regularly
+33,0,3,123,322,0,1,156,0,3.4,2,0,1,Calcium channel blocker,Take with food to avoid stomach upset
